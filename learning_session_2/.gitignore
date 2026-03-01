@@ -6,18 +6,18 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Data (Jika nanti Anda mengunduh dataset secara lokal, agar tidak memberatkan GitHub)
+# Data 
 *.csv
 *.xlsx
 *.dat
 
-# Virtual Environments (berjaga-jaga jika sewaktu-waktu pakai venv/pipenv)
+# Virtual Environments
 .env
 .venv
 env/
 venv/
 ENV/
 
-# OS generated files (Windows/Mac)
+# OS generated files
 .DS_Store
 Thumbs.db
